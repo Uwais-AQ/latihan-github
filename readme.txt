@@ -4,9 +4,5 @@ untuk jenis file txt bisa masukkan teks biasa, bisa pakai format agar lebih vari
 dll
 - bisa juga gini
 ---
-bisa juga di edit.
+bisa juga di gani kek gini
 
-konsep nya juga sama kek google docs, tapi versi code
-
-
-penambahan juga bisa
