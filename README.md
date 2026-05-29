@@ -1,4 +1,4 @@
-untuk jenis file txt bisa masukkan teks biasa, bisa pakai format agar lebih variatif
+untuk jenis file .md bisa masukkan teks biasa, bisa pakai format agar lebih variatif
 *bisa bulletin
 1. bisa nomor
 dll
