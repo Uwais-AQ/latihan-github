@@ -7,3 +7,6 @@ dll
 bisa juga di edit.
 
 konsep nya juga sama kek google docs, tapi versi code
+
+
+penambahan juga bisa
